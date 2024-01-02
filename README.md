@@ -9,8 +9,5 @@
 ## 期限
 本專案將於2023年1月12日以後完成合併並關閉。
 
-## PR教學影片
-
-
-
-
+## 教學影片
+https://drive.google.com/drive/folders/1WPd6s5Wc5GnfmMabsSK3iSUfqjqbZAtr?usp=drive_link
