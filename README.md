@@ -10,4 +10,4 @@
 本專案將於2023年1月12日以後完成合併並關閉。
 
 ## 教學影片
-https://drive.google.com/drive/folders/1WPd6s5Wc5GnfmMabsSK3iSUfqjqbZAtr?usp=drive_link
+https://drive.google.com/file/d/1b8JxvkQVK8eBrd8h_DGZf_UpaiwQ_1W6/view?usp=drive_link
